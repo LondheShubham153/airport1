@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/res/merged/debug/mipmap-hdpi/custom.png",
+        "source": "/home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/res/mipmap-hdpi/custom.png"
+    },
+    {
+        "merged": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/res/merged/debug/mipmap-hdpi/clogo.png",
+        "source": "/home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/res/mipmap-hdpi/clogo.png"
+    },
+    {
+        "merged": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

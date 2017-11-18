@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_3cfc989fafa316f521c9a38ecee1d685d3c99aa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_34b671a1d313b49116ed7b6a93655c0d36b785a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_64ffc5d1629b3744dbd5e095eeacc8366c2ce82e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/android/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_cd14da449156d72607c68a337084d2a82c7a6bf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_42ad0731e101c86dfc871214e9f1ddde4aefbefd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_b7823d695f6f27b8a1530cad5dad49389c97de29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_67dff5c17e97d6b0757ca6e301665d136477f1cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_1275931246c6fef2807762fa2cbc1ba5e89a3f53.jar" />
+    </item>
+
+</items>

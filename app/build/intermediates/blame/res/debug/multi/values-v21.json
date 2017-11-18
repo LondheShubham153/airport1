@@ -1,0 +1,1075 @@
+[
+    {
+        "outputFile": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 415,
+                    "endColumn": 90,
+                    "endOffset": 501
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 506,
+                    "endColumn": 102,
+                    "endOffset": 604
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 609,
+                    "endColumn": 102,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endColumn": 104,
+                    "endOffset": 812
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 817,
+                    "endColumn": 106,
+                    "endOffset": 919
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 924,
+                    "endColumn": 108,
+                    "endOffset": 1028
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1033,
+                    "endColumn": 108,
+                    "endOffset": 1137
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1142,
+                    "endColumn": 108,
+                    "endOffset": 1246
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1251,
+                    "endColumn": 108,
+                    "endOffset": 1355
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1360,
+                    "endColumn": 108,
+                    "endOffset": 1464
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1469,
+                    "endColumn": 106,
+                    "endOffset": 1571
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1576,
+                    "endColumn": 102,
+                    "endOffset": 1674
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1679,
+                    "endColumn": 118,
+                    "endOffset": 1793
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1798,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1948
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1953,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 2103
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2108,
+                    "endColumn": 104,
+                    "endOffset": 2208
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2213,
+                    "endColumn": 120,
+                    "endOffset": 2329
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2334,
+                    "endColumn": 100,
+                    "endOffset": 2430
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2435,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 2577
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2582,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 2718
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2723,
+                    "endColumn": 102,
+                    "endOffset": 2821
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2826,
+                    "endColumn": 118,
+                    "endOffset": 2940
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2945,
+                    "endColumn": 106,
+                    "endOffset": 3047
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3052,
+                    "endColumn": 102,
+                    "endOffset": 3150
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3155,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 3305
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3310,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 3476
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3481,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 3625
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3630,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 3790
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3795,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 3947
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3952,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 4098
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4103,
+                    "endColumn": 118,
+                    "endOffset": 4217
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4222,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 4366
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4371,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 4515
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4520,
+                    "endColumn": 111,
+                    "endOffset": 4627
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4632,
+                    "endColumn": 146,
+                    "endOffset": 4774
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4779,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 4927
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4932,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 5074
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5079,
+                    "endColumn": 74,
+                    "endOffset": 5149
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5154,
+                    "endColumn": 88,
+                    "endOffset": 5238
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5243,
+                    "endColumn": 86,
+                    "endOffset": 5325
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5330,
+                    "endColumn": 100,
+                    "endOffset": 5426
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5431,
+                    "endLine": 108,
+                    "endColumn": 12,
+                    "endOffset": 8278
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 8283,
+                    "endLine": 111,
+                    "endColumn": 12,
+                    "endOffset": 8464
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 8469,
+                    "endLine": 155,
+                    "endColumn": 12,
+                    "endOffset": 11328
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 11333,
+                    "endLine": 158,
+                    "endColumn": 12,
+                    "endOffset": 11526
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 11531,
+                    "endLine": 160,
+                    "endColumn": 12,
+                    "endOffset": 11649
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 11654,
+                    "endLine": 162,
+                    "endColumn": 12,
+                    "endOffset": 11772
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 11777,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 11885
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 11890,
+                    "endLine": 167,
+                    "endColumn": 12,
+                    "endOffset": 12068
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 12073,
+                    "endLine": 169,
+                    "endColumn": 12,
+                    "endOffset": 12199
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 12204,
+                    "endLine": 172,
+                    "endColumn": 12,
+                    "endOffset": 12400
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 12405,
+                    "endColumn": 88,
+                    "endOffset": 12489
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 12494,
+                    "endColumn": 110,
+                    "endOffset": 12600
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 12605,
+                    "endColumn": 126,
+                    "endOffset": 12727
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 12732,
+                    "endColumn": 100,
+                    "endOffset": 12828
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 12833,
+                    "endColumn": 94,
+                    "endOffset": 12923
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 12928,
+                    "endColumn": 122,
+                    "endOffset": 13046
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 13051,
+                    "endColumn": 128,
+                    "endOffset": 13175
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 13180,
+                    "endColumn": 116,
+                    "endOffset": 13292
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 13297,
+                    "endLine": 183,
+                    "endColumn": 12,
+                    "endOffset": 13469
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 13474,
+                    "endColumn": 98,
+                    "endOffset": 13568
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 13573,
+                    "endLine": 186,
+                    "endColumn": 12,
+                    "endOffset": 13703
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 13708,
+                    "endLine": 188,
+                    "endColumn": 12,
+                    "endOffset": 13846
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 13851,
+                    "endLine": 190,
+                    "endColumn": 12,
+                    "endOffset": 13981
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 13986,
+                    "endLine": 192,
+                    "endColumn": 12,
+                    "endOffset": 14100
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 14105,
+                    "endLine": 196,
+                    "endColumn": 12,
+                    "endOffset": 14301
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 14306,
+                    "endLine": 198,
+                    "endColumn": 12,
+                    "endOffset": 14420
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 14425,
+                    "endColumn": 92,
+                    "endOffset": 14513
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 14518,
+                    "endColumn": 110,
+                    "endOffset": 14624
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 14629,
+                    "endColumn": 55,
+                    "endOffset": 14680
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 14685,
+                    "endLine": 203,
+                    "endColumn": 12,
+                    "endOffset": 14787
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 14792,
+                    "endLine": 207,
+                    "endColumn": 12,
+                    "endOffset": 14982
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 14987,
+                    "endLine": 209,
+                    "endColumn": 12,
+                    "endOffset": 15093
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 15098,
+                    "endLine": 211,
+                    "endColumn": 12,
+                    "endOffset": 15226
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 15231,
+                    "endColumn": 94,
+                    "endOffset": 15321
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 15326,
+                    "endColumn": 90,
+                    "endOffset": 15412
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 15417,
+                    "endColumn": 90,
+                    "endOffset": 15503
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 15508,
+                    "endColumn": 116,
+                    "endOffset": 15620
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 15625,
+                    "endLine": 217,
+                    "endColumn": 12,
+                    "endOffset": 15759
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 15764,
+                    "endLine": 227,
+                    "endColumn": 12,
+                    "endOffset": 16272
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 16277,
+                    "endLine": 237,
+                    "endColumn": 12,
+                    "endOffset": 16797
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 16802,
+                    "endLine": 247,
+                    "endColumn": 12,
+                    "endOffset": 17420
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 17425,
+                    "endColumn": 56,
+                    "endOffset": 17477
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 17482,
+                    "endColumn": 57,
+                    "endOffset": 17535
+                },
+                "from": {
+                    "file": "/home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml"
+                }
+            }
+        ]
+    }
+]

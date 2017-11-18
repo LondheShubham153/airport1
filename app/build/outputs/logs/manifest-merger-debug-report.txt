@@ -1,0 +1,84 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support:design:23.4.0] /home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:7:9-37
+	android:theme
+		ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:10:9-52
+activity#com.coolscrap.hyderabadcustoms.MainActivity
+ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:11:9-50
+	android:name
+		ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:11:19-47
+activity#com.coolscrap.hyderabadcustoms.Splash
+ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:theme
+		ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:13:13-35
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.coolscrap.hyderabadcustoms.Thankyou
+ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:21:9-46
+	android:name
+		ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:21:19-43
+activity#com.coolscrap.hyderabadcustoms.SQLView
+ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:22:9-45
+	android:name
+		ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:22:19-42
+activity#com.coolscrap.hyderabadcustoms.DetailView
+ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:23:9-48
+	android:name
+		ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:23:19-45
+activity#com.coolscrap.hyderabadcustoms.login
+ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:24:9-52
+	android:name
+		ADDED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml:24:19-40
+uses-sdk
+INJECTED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.4.0] /home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/shubham/Downloads/HyderabadCustoms (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shubham/Downloads/HyderabadCustoms (2)/app/src/main/AndroidManifest.xml

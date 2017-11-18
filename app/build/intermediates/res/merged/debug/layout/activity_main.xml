@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@drawable/h"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_centerHorizontal="true">
+
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="1.0">
+            <ImageButton android:layout_gravity="center" android:id="@+id/toDb"  android:background="@null" android:layout_width="125.0dip" android:layout_height="125.0dip" android:scaleType="fitCenter" android:adjustViewBounds="false" android:cropToPadding="false" android:layout_weight="0.11" app:srcCompat="@drawable/custom" />
+            <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="19.0dip" android:textStyle="bold" android:gravity="center" android:id="@+id/datetime" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="HYDERABAD CUSTOMS WELCOMES YOU" />
+            <TextView android:textSize="12.0dip" android:textStyle="italic" android:gravity="center" android:paddingTop="10.0dip" android:paddingBottom="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="(Please submit your valuable feedback)" />
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="2.0">
+                <Spinner android:entries="@array/mister" android:id="@+id/mister" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="15.0dip" />
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8.0dip"
+                    android:layout_marginBottom="8.0dip">
+                <EditText android:id="@+id/editText1" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="10.0dip" android:hint="NAME" android:layout_weight="2.16" android:inputType="textPersonName" android:windowSoftInputMode="adjustResize" />
+
+                </android.support.design.widget.TextInputLayout> </LinearLayout>
+            <Spinner android:entries="@array/countries" android:id="@+id/country" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="15.0dip" />
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8.0dip"
+                android:layout_marginBottom="8.0dip">
+            <EditText android:id="@+id/editText2" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="15.0dip" android:hint="FLIGHT NUMBER" android:inputType="textPersonName" android:windowSoftInputMode="adjustResize" />
+
+            </android.support.design.widget.TextInputLayout> <android.support.design.widget.TextInputLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8.0dip"
+                android:layout_marginBottom="8.0dip">
+            <EditText android:id="@+id/editText3" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="15.0dip" android:hint="PASSPORT (optional)" android:inputType="textPersonName" android:windowSoftInputMode="adjustResize" />
+
+        </android.support.design.widget.TextInputLayout> <LinearLayout android:padding="10.0dip" android:paddingTop="20.0dip" android:paddingBottom="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageButton android:id="@+id/happy" android:background="@null" android:padding="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitCenter" android:adjustViewBounds="false" android:cropToPadding="false" android:layout_weight="3.16" app:srcCompat="@drawable/hap" />
+                <ImageButton android:id="@+id/satis" android:background="@null" android:padding="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitCenter" android:adjustViewBounds="false" android:cropToPadding="false" android:layout_weight="3.16" app:srcCompat="@drawable/n2" />
+                <ImageButton android:id="@+id/angry" android:background="@null" android:padding="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitCenter" android:adjustViewBounds="false" android:cropToPadding="false" android:layout_weight="3.16" app:srcCompat="@drawable/s3" />
+            </LinearLayout>
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8.0dip"
+                android:layout_marginBottom="8.0dip">
+            <EditText android:id="@+id/editText6" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="15.0dip" android:hint="FEEDBACK (optional)\n \n \n \n(max.300 characters)" android:ems="6" android:layout_weight="0.34" android:inputType="textMultiLine" android:windowSoftInputMode="adjustResize" />
+
+            </android.support.design.widget.TextInputLayout> <TextView android:textAppearance="?android:textAppearanceLarge" android:gravity="center" android:paddingTop="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <Button android:textSize="18.0dip" android:gravity="center" android:id="@+id/subm" android:background="#ffcef2ca" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="15.0dip" android:text="SUBMIT" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

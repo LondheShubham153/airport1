@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.coolscrap.hyderabadcustoms"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="23" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/clogo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar" >
+        <activity android:name="com.coolscrap.hyderabadcustoms.MainActivity" />
+        <activity
+            android:name="com.coolscrap.hyderabadcustoms.Splash"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.coolscrap.hyderabadcustoms.Thankyou" />
+        <activity android:name="com.coolscrap.hyderabadcustoms.SQLView" />
+        <activity android:name="com.coolscrap.hyderabadcustoms.DetailView" />
+        <activity android:name="com.coolscrap.hyderabadcustoms.login" />
+    </application>
+
+</manifest>
